@@ -30,15 +30,12 @@ Experiment with the code in Alpaca's paper trading environment to observe how st
 
 Briefly describe the main sections or directories in your codebook, highlighting key strategies, functions, or utilities included.
 
-### 1. Strategy A
+### 1. Pair Strategy
 
-- Explanation of Strategy A and its purpose.
+- Explanation of pair strategy and its purpose.
 - Code snippets demonstrating the key components.
 
-### 2. Strategy B
 
-- Overview of Strategy B and its implementation details.
-- Examples of how to run and test this strategy.
 
 ## Contribution Guidelines
 
